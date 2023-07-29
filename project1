@@ -1,0 +1,4 @@
+PS C:\Users\owner> cd .. (상위 폴더로 이동)
+PS C:\Users> cd .. (위와 같음)
+PS C:\> ssh dli@192.168.55.1 (dli@192.168.55.1 포트와 연결)
+에러 발생 / ssh: connect to host 192.168.55.1 port 22: connection timed out
